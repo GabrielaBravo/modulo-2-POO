@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\g.bravo.morinishi\\source\\repos\\Modulo2_POO\\Modulo2\\Abstracao3\\Abstracao3.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\g.bravo.morinishi\\source\\repos\\Modulo2_POO\\Modulo2\\Abstracao3\\Abstracao3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\g.bravo.morinishi\\source\\repos\\Modulo2_POO\\Modulo2\\Abstracao3\\Abstracao3.csproj",
+        "projectName": "Abstracao3",
+        "projectPath": "C:\\Users\\g.bravo.morinishi\\source\\repos\\Modulo2_POO\\Modulo2\\Abstracao3\\Abstracao3.csproj",
+        "packagesPath": "C:\\Users\\g.bravo.morinishi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\g.bravo.morinishi\\source\\repos\\Modulo2_POO\\Modulo2\\Abstracao3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\g.bravo.morinishi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dev-ch-sv09.bjss.dev/DefaultCollection/_packaging/AtpDev@Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

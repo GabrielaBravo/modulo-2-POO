@@ -1,0 +1,15 @@
+C:\Users\g.bravo.morinishi\source\repos\Modulo2_POO\Modulo2\Abstracao3\bin\Debug\net6.0\Abstracao3.exe
+C:\Users\g.bravo.morinishi\source\repos\Modulo2_POO\Modulo2\Abstracao3\bin\Debug\net6.0\Abstracao3.deps.json
+C:\Users\g.bravo.morinishi\source\repos\Modulo2_POO\Modulo2\Abstracao3\bin\Debug\net6.0\Abstracao3.runtimeconfig.json
+C:\Users\g.bravo.morinishi\source\repos\Modulo2_POO\Modulo2\Abstracao3\bin\Debug\net6.0\Abstracao3.dll
+C:\Users\g.bravo.morinishi\source\repos\Modulo2_POO\Modulo2\Abstracao3\bin\Debug\net6.0\Abstracao3.pdb
+C:\Users\g.bravo.morinishi\source\repos\Modulo2_POO\Modulo2\Abstracao3\obj\Debug\net6.0\Abstracao3.csproj.AssemblyReference.cache
+C:\Users\g.bravo.morinishi\source\repos\Modulo2_POO\Modulo2\Abstracao3\obj\Debug\net6.0\Abstracao3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.bravo.morinishi\source\repos\Modulo2_POO\Modulo2\Abstracao3\obj\Debug\net6.0\Abstracao3.AssemblyInfoInputs.cache
+C:\Users\g.bravo.morinishi\source\repos\Modulo2_POO\Modulo2\Abstracao3\obj\Debug\net6.0\Abstracao3.AssemblyInfo.cs
+C:\Users\g.bravo.morinishi\source\repos\Modulo2_POO\Modulo2\Abstracao3\obj\Debug\net6.0\Abstracao3.csproj.CoreCompileInputs.cache
+C:\Users\g.bravo.morinishi\source\repos\Modulo2_POO\Modulo2\Abstracao3\obj\Debug\net6.0\Abstracao3.dll
+C:\Users\g.bravo.morinishi\source\repos\Modulo2_POO\Modulo2\Abstracao3\obj\Debug\net6.0\refint\Abstracao3.dll
+C:\Users\g.bravo.morinishi\source\repos\Modulo2_POO\Modulo2\Abstracao3\obj\Debug\net6.0\Abstracao3.pdb
+C:\Users\g.bravo.morinishi\source\repos\Modulo2_POO\Modulo2\Abstracao3\obj\Debug\net6.0\Abstracao3.genruntimeconfig.cache
+C:\Users\g.bravo.morinishi\source\repos\Modulo2_POO\Modulo2\Abstracao3\obj\Debug\net6.0\ref\Abstracao3.dll
