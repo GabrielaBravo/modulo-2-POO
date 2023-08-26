@@ -8,15 +8,15 @@ namespace Interface1
 {
     public class Natacao : IExercicio
     {
-        public void FazerProva()
-        {
-            Console.WriteLine("Realizando a Prova de Natação");
-        }
+        //public void FazerProva()
+        //{
+        //    Console.WriteLine("Realizando a Prova de Natação");
+        //}
 
-        public void FazerTreino()
-        {
-            Console.WriteLine("Fazendo o Treino de Natação");
-        }
+        //public void FazerTreino()
+        //{
+        //    Console.WriteLine("Fazendo o Treino de Natação");
+        //}
 
         public void FazerFortalecimento()
         {

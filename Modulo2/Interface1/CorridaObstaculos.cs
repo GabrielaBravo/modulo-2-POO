@@ -8,15 +8,15 @@ namespace Interface1
 {
     public class CorridaObstaculos : IExercicio
     {
-        public void FazerProva()
-        {
-            Console.WriteLine("Realizando a Prova de Corrida de Obstáculos");
-        }
+        //public void FazerProva()
+        //{
+        //    Console.WriteLine("Realizando a Prova de Corrida de Obstáculos");
+        //}
 
-        public void FazerTreino()
-        {
-            Console.WriteLine("Fazendo o Treino de Corrida de Obstáculos");
-        }
+        //public void FazerTreino()
+        //{
+        //    Console.WriteLine("Fazendo o Treino de Corrida de Obstáculos");
+        //}
 
         public void FazerFortalecimento()
         {

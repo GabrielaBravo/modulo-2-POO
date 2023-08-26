@@ -2,11 +2,11 @@
 using System.Diagnostics.Contracts;
 using System.Runtime.Intrinsics.X86;
 
-internal class Program
+internal class Teste
 {
     private static void Main(string[] args)
     {
-        //                CCrie uma interface Exercicio contendo os contratos para:
+        //                Crie uma interface Exercicio contendo os contratos para:
         //                FazerProva - implementado
         //                FazerTreino - implementado
         //                FazerFortalecimento - contrato
@@ -21,16 +21,16 @@ internal class Program
 
         //                Crie uma classe teste
 
-        Natacao natacao = new Natacao();
-        CorridaObstaculos corrida = new CorridaObstaculos();
+        IExercicio natacao = new Natacao();
+        IExercicio corrida = new CorridaObstaculos();
 
-        Console.WriteLine("=== Natação ===");
+        Console.WriteLine("=== Atleta de Natação ===");
         natacao.FazerProva();
         natacao.FazerTreino();
         natacao.FazerFortalecimento();
         natacao.FazerAlongamento();
 
-        Console.WriteLine("\n=== Corrida de Obstáculos ===");
+        Console.WriteLine("\n=== Atleta de Corrida de Obstáculos ===");
         corrida.FazerProva();
         corrida.FazerTreino();
         corrida.FazerFortalecimento();
