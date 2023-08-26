@@ -94,3 +94,18 @@ Teste.DetalhesFigura(retangulo); //"Cor da figura: Azul - Área da figura: 7"
 ## Abstração 4:
 Classes abstratas são úteis para implementar comportamentos comuns a classes derivadas.
 Escreva uma classe abstrata chamada CartaoWeb. Essa classe representa todos os tipos de cartões virtuais e conterá apenas um atributo: Destinatario (string). Nessa classe você deverá também declarar o método public abstract void ShowMessage(). Crie classes filhas da classe CartaoWeb: DiaDosNamorados, Natal, Aniversario. Cada uma dessas classes deve conter um método construtor que receba o nome do destinatário do cartão. Cada classe também deve implementar o método ShowMessage(), mostrando uma mensagem ao usuário com seu nome e que seja específica para a data de comemorativa do cartão. Ex: "Feliz Dia dos Namorados, José!", "Feliz Natal, Maria!", "Feliz Aniversário, João!"
+
+## Interface 1:
+Crie uma interface Exercicio contendo os contratos para:
+FazerProva - implementado;
+FazerTreino - implementado;
+FazerFortalecimento - contrato;
+FazerAlongamento - contrato;
+
+Crie uma classe Natacao que implemente os métodos:
+Fortalecimento -> Malhar membros superiores e inferiores;
+Alongamento -> Alongar membros superiores e inferiores;
+Crie uma classe CorridaObstaculos que implemente os métodos;
+Fortalecimento -> Malhar membros inferiores;
+Alongamento -> Alongar membros inferiores;
+Crie uma classe teste
