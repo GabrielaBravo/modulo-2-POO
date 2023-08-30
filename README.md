@@ -156,6 +156,7 @@ Crie um programa em C# que contenha uma interface IVeiculo com dois métodos, um
 Em seguida, crie uma classe Carro com um construtor que receba um parâmetro com a quantidade de gasolina inicial do carro e implemente os métodos Dirigir e Reabastecer do carro.
 
 O método Dirigir retornará "Dirigindo", se a gasolina for maior que 0. O método Reabastecer aumentará a gasolina do carro e retornará true.
+<<<<<<< HEAD
 
 
 ## Reflection 1:
@@ -241,3 +242,5 @@ Exemplo:
 
 Reflections.RetornaPropriedadesPublicas(new AlgumaClasse()) = List<string> {  }
 Lembre-se: Coloque o código da classe AlgumaClasse na sua solução.
+=======
+>>>>>>> 85e5d3a9a2a0cd2a24cc845c0920423bdabee248
