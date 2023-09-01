@@ -12,17 +12,6 @@ namespace GerenciamentoEmpresaInterface
         {
         }
 
-        public void ImprimirInformações()
-        {
-            StringBuilder sb = new();
-            sb.AppendLine($"--------------------------------------------------------");
-            sb.AppendLine($"Empresa: {Nome}");
-            sb.AppendLine($"Endereço: {Endereco}");
-            sb.AppendLine($"CNPJ: {Cnpj}");
-
-            Console.WriteLine(sb);
-        }
-
         public void RealizarVenda()
         {
             StringBuilder sb = new();
