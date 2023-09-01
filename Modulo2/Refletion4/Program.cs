@@ -16,6 +16,7 @@ internal class Program
 
     public class AlgumaClasse
     {
+
         public int CampoX;
 
         private int CampoY;
