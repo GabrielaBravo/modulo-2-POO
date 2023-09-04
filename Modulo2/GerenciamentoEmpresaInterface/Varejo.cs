@@ -8,8 +8,10 @@ namespace GerenciamentoEmpresaInterface
 {
     internal class Varejo : EmpresaBase, IEmpresa
     {
-        public Varejo(string nome, string endereco, int cnpj) : base(nome, endereco, cnpj)
+        public EnviarNotificacaoWhatsApp EnviarNotificacaoWhatsApp { get;private set; }   
+        public Varejo(string nome, string endereco, int cnpj, EnviarNotificacaoWhatsApp notificacaoWhatsApp) : base(nome, endereco, cnpj)
         {
+            EnviarNotificacaoWhatsApp = notificacaoWhatsApp;
         }
         
         public void RealizarVenda()
@@ -18,6 +20,8 @@ namespace GerenciamentoEmpresaInterface
             sb.AppendLine($"{Nome} Está atualmente realizando venda de produtos!");
 
             Console.WriteLine(sb);
+            EnviarNotificacaoWhatsApp.EnviarMensagemCliente();
+            
         }
     }
 }

@@ -4,12 +4,14 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-
+        EnviarNotificacaoWhatsApp notificacaoWhatsApp = new();
         List<IEmpresa> empresas = new List<IEmpresa>
         {
-            new Varejo("BTG", "Rua das Flores", 0000001),
+            new Varejo("BTG", "Rua das Flores", 0000001, notificacaoWhatsApp),
             new Empreiteira("Ada", "Rua das Amoras", 000002)
         };
+
+      
 
         foreach (var empresa in empresas)
         {
@@ -18,6 +20,7 @@ internal class Program
             Console.WriteLine();
         }
 
+        Console.ReadKey();
 
     }
 }
