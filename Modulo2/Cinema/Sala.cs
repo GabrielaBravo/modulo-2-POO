@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Cinema
 {
-    internal class Sala
+    public class Sala
     {
+        public int QuantidadeCadeiras { get; set; }
+        public int Numero { get; set; }
     }
 }
