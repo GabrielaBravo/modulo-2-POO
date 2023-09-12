@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\g.bravo.morinishi\\source\\repos\\Modulo2_POO\\Modulo2\\Abstracao2\\Abstracao2.csproj",
+      "projectUniqueName": "C:\\Users\\g.bravo.morinishi\\Source\\Repos\\GabrielaBravo\\modulo-2-POO\\Modulo2\\Abstracao2\\Abstracao2.csproj",
       "projectName": "Abstracao2",
-      "projectPath": "C:\\Users\\g.bravo.morinishi\\source\\repos\\Modulo2_POO\\Modulo2\\Abstracao2\\Abstracao2.csproj",
+      "projectPath": "C:\\Users\\g.bravo.morinishi\\Source\\Repos\\GabrielaBravo\\modulo-2-POO\\Modulo2\\Abstracao2\\Abstracao2.csproj",
       "packagesPath": "C:\\Users\\g.bravo.morinishi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\g.bravo.morinishi\\source\\repos\\Modulo2_POO\\Modulo2\\Abstracao2\\obj\\",
+      "outputPath": "C:\\Users\\g.bravo.morinishi\\Source\\Repos\\GabrielaBravo\\modulo-2-POO\\Modulo2\\Abstracao2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\g.bravo.morinishi\\AppData\\Roaming\\NuGet\\NuGet.Config",
