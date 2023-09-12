@@ -9,14 +9,17 @@ namespace Abstracao1
     public abstract class EsporteBase
     {
         public abstract int QuantidadeJogadoresPorTime { get; set; }
-        public abstract int TempodeJogoEmMinutos { get; set; }
+        public abstract int TempoDeJogoEmMinutos { get; set; }
 
-        public abstract string IniciarJogo();
-        public abstract string FinalizarJogo();
-        public string ExibirDescricao()
+        public string IniciarJogo()
         {
-            return $"O futebol é um esporte praticado por {QuantidadeJogadoresPorTime} jogadores em cada time durante {TempodeJogoEmMinutos} minutos";
+            return "O jogo foi iniciado";
         }
-    }
+        public string FinalizarJogo()
+        {
+            return "O jogo foi finalizado";
+        }
+        public abstract string ExibirDescricao();
 
+    }
 }

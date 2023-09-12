@@ -8,17 +8,18 @@ namespace Abstracao1
 {
     public class Futebol : EsporteBase
     {
-        public override int QuantidadeJogadoresPorTime { get; set; } = 11;
-        public override int TempodeJogoEmMinutos { get; set; } = 90;
+        public override int QuantidadeJogadoresPorTime { get; set; }
+        public override int TempoDeJogoEmMinutos { get; set; }
 
-        public override string IniciarJogo()
+        public Futebol()
         {
-            return "O jogo foi iniciado";
+            QuantidadeJogadoresPorTime = 11;
+            TempoDeJogoEmMinutos = 90;
         }
 
-        public override string FinalizarJogo()
+        public override string ExibirDescricao()
         {
-            return "O jogo foi finalizado";
+            return $"O futebol é um esporte praticado por {QuantidadeJogadoresPorTime} jogadores em cada time durante {TempoDeJogoEmMinutos} minutos ";
         }
     }
 }
